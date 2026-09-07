@@ -1,0 +1,17 @@
+Customer ID,Name,Age,Gender,City,Income,Signup Date
+1001, John Smith ,34,Male,Bloemfontein,45000,2025-01-15
+1002,jane doe,29,female, Cape Town ,52000,15/02/2025
+1003,Peter Jones,,M,JOHANNESBURG,61000,2025/03/01
+1004,Sarah Williams,41,Female,cape town,,2025-03-18
+1005,John Smith,34,male,Bloemfontein,45000,2025-01-15
+1006,David Brown,52,Male,Durban,78000,22-04-2025
+1007,Lisa Adams,,F,Johannesburg,69000,2025-05-03
+1008,Mark Wilson,38,Male,Durban,-5000,2025-05-17
+1009,Anna Davis,27,Female,Cape Town,55000,2025-06-01
+1010,michael lee,45,male,durban,72000,2025-06-15
+1011,  Emily Clark,31,FEMALE,Bloemfontein,48000,2025-07-02
+1012,Tom Harris,39,M, Pretoria ,67000,02/07/2025
+1013,Grace Adams,28,,Pretoria,59000,2025-07-20
+1014,Chris Brown,150,Male,Cape Town,63000,not-a-date
+1015,Peter Jones,45,male,johannesburg,61000,2025-08-01
+1008,Mark Wilson,38,Male,Durban,-5000,2025-05-17
